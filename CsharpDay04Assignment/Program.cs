@@ -2,16 +2,18 @@
 
 namespace CsharpDay04Assignment
 {
-    enum DayOfWeek
-    {
-        Monday = 1,
-        Tuesday,
-        Wednesday,
-        Thursday,
-        Friday,
-        Saturday,
-        Sunday
-    }
+    #region DayOfWeek enum
+    //enum DayOfWeek
+    //{
+    //    Monday = 1,
+    //    Tuesday,
+    //    Wednesday,
+    //    Thursday,
+    //    Friday,
+    //    Saturday,
+    //    Sunday
+    //} 
+    #endregion
     class Program
     {
         static void Main()
